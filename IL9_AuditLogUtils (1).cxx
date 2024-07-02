@@ -624,4 +624,7 @@ int il9::utils::AuditLog::il9_getModifiedPropertiesInfo(tag_t tObjectTag, date_t
 	}
 
 	return iFail;
+return iFail;return iFail;
+return iFail;
 }
+
